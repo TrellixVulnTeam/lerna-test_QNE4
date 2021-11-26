@@ -18,5 +18,6 @@
   "keywords": [],
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "4c205c7d6f7309f6c45d9e4caca9a5ab3f4e4d53"
 }
