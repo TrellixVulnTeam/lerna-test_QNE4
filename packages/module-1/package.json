@@ -1,0 +1,22 @@
+{
+  "name": "module-1",
+  "version": "1.0.0",
+  "description": "测试模块一",
+  "author": "Levine Hua <951995489@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/module-1.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
