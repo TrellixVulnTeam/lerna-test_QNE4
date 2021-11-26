@@ -9,6 +9,6 @@
     "packages/*"
   ],
   "publishConfig": {
-    "registry": "http://localhost:5000"
+    "registry": "http://localhost:4873"
   }
 }
